@@ -13,10 +13,10 @@ for (var i = 0; i < invitati.length; i++) {
         message = true;
     } 
     
-}
+} 
 
-if (message == true) {
-    console.log("Tutto ok, entra!");
-} else {
+if (message) {
+    console.log("Tutto ok, puoi entrare!");
+} else  {
     console.log("Vattene a casa");
 }
