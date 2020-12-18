@@ -6,5 +6,4 @@ for( var i = 0; i < 6; i++) {
         array.push(utente);
     }
 }
-
 console.log(array);
